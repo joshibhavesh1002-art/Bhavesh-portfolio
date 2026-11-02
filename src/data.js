@@ -6,7 +6,7 @@ export const profile = {
   email: 'joshibhavesh1002@gmail.com',
   linkedin: 'https://www.linkedin.com/in/joshi-bhavesh-310699345',     // full profile URL
   githubUser: 'joshibhavesh1002-art',   // e.g. 'octocat': enables repositories + contribution graph
-  resume: '/Bhavesh-resume.pdf',       // e.g. '/resume.pdf' (file in /public)
+  resume: '/Bhavesh_Joshi_Resume.pdf',       // e.g. '/resume.pdf' (file in /public)
   photo: '/profile.webp',        // e.g. '/me.jpg' (file in /public)
   formEndpoint: '', // Formspree / Web3Forms URL. Empty = the form opens your email app
 }
